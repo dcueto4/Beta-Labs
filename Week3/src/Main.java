@@ -6,7 +6,7 @@ public class Main {
 		int[] array = new int[6];
 		array[0] = 1;
 		array[1] = 5;
-		array[2] = 5;
+		array[2] = 2;
 		array[3] = 8;
 		array[4] = 13;
 		array[5] = 6;
